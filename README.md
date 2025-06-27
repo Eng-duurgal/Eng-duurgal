@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Hi, I'm Abdifatah Adam — Eng-duurgal
 
-<!--
-**Eng-duurgal/Eng-duurgal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year CS Student @ Simad University  
+🧠 Machine Learning & Data Science Enthusiast  
+💻 I build ML-powered apps using Python, Flask, and Streamlit  
+📍 Based in Somalia | 📫 cabdifitaaxaadancabdi123@gmail.com  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+🔐 [Phishing Website Detection](https://github.com/Eng-duurgal/phishing_detection_using_Random_Forest)  
+> Detects phishing websites using a Random Forest Classifier. Includes full dataset and clean code.
+
+🚗 [Car Price Prediction](https://github.com/Eng-duurgal/car-price-prediction-using-linear-regression)  
+> Predicts car prices using linear regression based on historical data.
+
+🌤️ [Real-Time Weather Dashboard](https://github.com/Eng-duurgal/weather-dashboard) *(Coming Soon)*  
+> Uses real-time weather data from OpenWeatherMap API and displays trends with Plotly in a Streamlit UI.
+
+🎓 [Student Performance Predictor](https://github.com/Eng-duurgal/student-performance-prediction)  
+> A Flask web app that predicts student success based on academic data.
+
+---
+
+## 🏆 Certifications & Achievements
+
+- 🎖️ **Google Data Analytics Certificate** *(Coursera, 2024)*   
+- 🥇 **Top Student Project, Simad University Final Year ML Track**  
+- 🧾 **Certificate of Excellence in Python Programming** *(2022)*  
+
+---
+
+## 🧰 Tech Stack
+
+`Python` • `Pandas` • `NumPy` • `Scikit-learn` • `Matplotlib` • `Plotly`  
+`Flask` •  `Git` • `VS Code` • `HTML/CSS`  
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: abdifatah41708.student@simad.edu.so 
+- 💼 Open to: ML Internships • Freelance Projects • Collaboration
+
+---
+
+> “Success is not in what you have, but who you are.” – Bo Bennett
+
