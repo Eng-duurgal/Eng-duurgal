@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Abdifatah Adam — Eng-duurgal
 
-🎓 Final Year CS Student @ Simad University  
+🎓 CS Student @ Simad University  
 🧠 Machine Learning & Data Science Enthusiast  
-💻 I build ML-powered apps using Python, Flask, and Streamlit  
-📍 Based in Somalia | 📫 cabdifitaaxaadancabdi123@gmail.com  
+💻 I build ML-powered apps using Python, Flask
+📍 Based in Somalia | 📫 abdifatah41708.student@simad.edu.so
 
 ---
 
